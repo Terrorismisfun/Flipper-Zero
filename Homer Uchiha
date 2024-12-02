@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Educative</title>
+  </head>
+  <body>
+    <button onclick="openTab()">Educative</button>
+  
+  <script>
+    function openTab() {
+    window.open("https://www.educative.io/", "_blank");
+    }
+  </script>
+
+  </body>
+</html>
